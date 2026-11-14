@@ -52,6 +52,7 @@ service-account.json
 __pycache__/
 *.py[cod]
 *$py.class
+.cache*
 
 .venv/
 venv/
